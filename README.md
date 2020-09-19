@@ -11,7 +11,7 @@
 * GIT
 
 ## Setup
-Click the link 
+Click the link https://olganesmeyanova.github.io/OlgaNesmeyanovaProject10.github.io/
 
 ## Status
 Project is: in progress
