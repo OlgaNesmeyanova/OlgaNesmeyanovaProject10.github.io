@@ -11,7 +11,7 @@
 * GIT
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+Click the link 
 
 ## Status
 Project is: in progress
